@@ -1,8 +1,8 @@
 ---
 title: RiskNova
-emoji: 🚀
+emoji: 📊
 colorFrom: blue
-colorTo: indigo
+colorTo: slate
 sdk: streamlit
 sdk_version: 1.35.0
 python_version: 3.10
